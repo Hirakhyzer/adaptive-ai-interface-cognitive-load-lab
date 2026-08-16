@@ -1,0 +1,29 @@
+[
+  {
+    "scenario_id": "dashboard-review-high-density",
+    "description": "Participant reviews a dense decision-support dashboard under time pressure.",
+    "complexity": 0.82,
+    "urgency": 0.63,
+    "information_density": 0.78,
+    "error_risk": 0.70,
+    "expected_adaptation": "focus"
+  },
+  {
+    "scenario_id": "learning-task-medium-support",
+    "description": "Participant learns a new interface with moderate guidance and optional explanations.",
+    "complexity": 0.55,
+    "urgency": 0.32,
+    "information_density": 0.50,
+    "error_risk": 0.42,
+    "expected_adaptation": "balanced"
+  },
+  {
+    "scenario_id": "routine-entry-low-load",
+    "description": "Participant completes a familiar data-entry task with low time pressure.",
+    "complexity": 0.18,
+    "urgency": 0.20,
+    "information_density": 0.22,
+    "error_risk": 0.18,
+    "expected_adaptation": "concise"
+  }
+]
