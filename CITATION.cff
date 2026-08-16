@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Adaptive AI Interface Cognitive Load Lab"
+message: "If this repository supports your academic work, please cite it."
+type: software
+authors:
+  - family-names: "Khyzer"
+    given-names: "Hira"
+year: 2026
+license: MIT
+repository-code: "https://github.com/Hirakhyzer/adaptive-ai-interface-cognitive-load-lab"
+keywords:
+  - human-computer interaction
+  - adaptive interfaces
+  - human-centered AI
+  - cognitive load
+  - usability evaluation
