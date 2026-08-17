@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Adaptive AI Interface Cognitive Load Lab banner" width="100%" />
+  <img src="assets/banner.png" alt="Adaptive AI Interface Cognitive Load Lab banner" width="100%" />
 </p>
 
 <h1 align="center">Adaptive AI Interface Cognitive Load Lab</h1>
@@ -56,7 +56,7 @@ This project asks whether adaptive AI interfaces can reduce that overload by adj
 ## System Architecture
 
 <p align="center">
-  <img src="assets/adaptive-interface-architecture.svg" alt="Adaptive AI interface architecture" width="96%" />
+  <img src="assets/adaptive-interface-architecture.png" alt="Adaptive AI interface architecture" width="96%" />
 </p>
 
 ```mermaid
@@ -79,7 +79,7 @@ flowchart LR
 ## Cognitive Load Workflow
 
 <p align="center">
-  <img src="assets/cognitive-load-workflow.svg" alt="Cognitive load adaptive interface workflow" width="96%" />
+  <img src="assets/cognitive-load-workflow.png" alt="Cognitive load adaptive interface workflow" width="96%" />
 </p>
 
 | Stage | Research purpose |
@@ -95,7 +95,7 @@ flowchart LR
 ## Evaluation Dashboard Concept
 
 <p align="center">
-  <img src="assets/usability-evaluation-dashboard.svg" alt="Usability evaluation dashboard" width="96%" />
+  <img src="assets/usability-evaluation-dashboard.png" alt="Usability evaluation dashboard" width="96%" />
 </p>
 
 ---
@@ -133,10 +133,10 @@ pytest
 adaptive-ai-interface-cognitive-load-lab/
 ├── README.md
 ├── assets/
-│   ├── banner.svg
-│   ├── adaptive-interface-architecture.svg
-│   ├── cognitive-load-workflow.svg
-│   └── usability-evaluation-dashboard.svg
+│   ├── banner.png
+│   ├── adaptive-interface-architecture.png
+│   ├── cognitive-load-workflow.png
+│   └── usability-evaluation-dashboard.png
 ├── data/
 │   └── scenario_templates.json
 ├── docs/
